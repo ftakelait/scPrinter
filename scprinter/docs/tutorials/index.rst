@@ -14,3 +14,8 @@
    gpu_umap
    gpu_chromvar
    tutorial_dorc
+
+.. note::
+   You can also run the PBMC bulk ATAC workflow from the command line:
+
+   ``python scprinter/scripts/PBMC_bulkATAC_tutorial.py --help``
